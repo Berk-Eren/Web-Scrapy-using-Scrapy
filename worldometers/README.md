@@ -1,0 +1,1 @@
+This is the project from Ahmed Rafik's Udemy Course *"Modern Web Scraping with Python using Scrapy Splash Selenium"*.
